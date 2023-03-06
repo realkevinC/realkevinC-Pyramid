@@ -36,6 +36,6 @@ public class Pyramid {
             }
             pyramid.append("\n");
         }
-        return pyramid.toString();
+        return pyramid.toString(); 
     }
 }
